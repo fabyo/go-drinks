@@ -6,12 +6,11 @@
 
 Pequeno utilitário em **Go** que consome uma **API pública de drinks** e gera uma **planilha Excel** com os resultados.
 
-É um projetinho perfeito pra demonstrar:
+É um projetinho pra demonstrar:
 
 - Consumo de API REST (HTTP + JSON) em Go  
 - Modelagem de structs pra mapear respostas JSON  
 - Geração de arquivo **.xlsx** usando a lib `excelize`  
-- Automação de “ETLzinho”: **API → Excel**
 
 ---
 

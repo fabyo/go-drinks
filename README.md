@@ -1,8 +1,7 @@
-# Golang Drinks 🍹
-<img src="go-drink.png" alt="Golang" width="200" />
-
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+# <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/> Golang Drinks 🍹
 <img src="https://img.shields.io/badge/Excelize-Spreadsheet-blue?style=for-the-badge" alt="Excelize"/>
+
+<img src="go-drink.png" alt="Golang" width="200" />
 
 Pequeno utilitário em **Go** que consome uma **API pública de drinks** e gera uma **planilha Excel** com os resultados.
 

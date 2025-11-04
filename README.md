@@ -20,3 +20,8 @@ Pequeno utilitário em **Go** que consome uma **API pública de drinks** e gera 
 
    ```text
    https://www.thecocktaildb.com/api/json/v1/1/search.php?f=a
+
+📥 Instalação / Modo de usar
+
+- go mod init github.com/fabyo/go-drinks
+- go get github.com/xuri/excelize/v2
